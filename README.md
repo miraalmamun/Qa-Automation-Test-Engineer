@@ -1,7 +1,7 @@
 # Qa-Automation-Test-Engineer
 
 <h1 align="center">Hey Everyone 👋, I'm Mir Al Mamun</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/linkdn-banner.png"> </div>
+<div align="center"> <img src="https://avatars.githubusercontent.com/u/29160748?s=400&u=b4b5509289a82a7542aefc119c49b06465759365&v=4"> </div>
 <h3 align="center">A passionate Software Automation Test Engineer From New York. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

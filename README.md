@@ -7,15 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
-
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **Java and Selenium**
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **miraalmamun@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
